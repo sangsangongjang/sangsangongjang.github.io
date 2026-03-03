@@ -1,6 +1,6 @@
 **Terms & Conditions**  
 
-These terms and conditions apply to the Soda Blur app (hereby referred to as "Application") for mobile devices that was created by sang.san.gong.jang (hereby referred to as "Service Provider") as a Commercial service.
+These terms and conditions apply to the Pop Blur app (hereby referred to as "Application") for mobile devices that was created by sang.san.gong.jang (hereby referred to as "Service Provider") as a Free service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
 
@@ -31,7 +31,7 @@ The Service Provider may wish to update the application at some point. The appli
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-02-24
+These terms and conditions are effective as of 2026-03-03
 
 **Contact Us**
 
